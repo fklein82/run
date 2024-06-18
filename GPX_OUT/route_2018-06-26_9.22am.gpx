@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Apple Health Export" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <time>2024-06-18T22:20:49Z</time>
+  </metadata>
+  <trk>
+    <name>Route 2018-06-26 9:22am</name>
+    <trkseg>
+      <trkpt lon="2.339062" lat="48.823982"><ele>50.742413</ele><time>2018-06-26T07:22:32Z</time><extensions><speed>2.121189</speed><course>117.120407</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+      <trkpt lon="2.339092" lat="48.823982"><ele>50.699142</ele><time>2018-06-26T07:22:33Z</time><extensions><speed>2.149295</speed><course>129.908173</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+      <trkpt lon="2.339123" lat="48.823981"><ele>50.662048</ele><time>2018-06-26T07:22:34Z</time><extensions><speed>2.780033</speed><course>133.436996</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+      <trkpt lon="2.339159" lat="48.823970"><ele>50.629467</ele><time>2018-06-26T07:22:35Z</time><extensions><speed>2.644649</speed><course>133.088928</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+      <trkpt lon="2.339196" lat="48.823962"><ele>50.622192</ele><time>2018-06-26T07:22:36Z</time><extensions><speed>2.644649</speed><course>129.350677</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+      <trkpt lon="2.339230" lat="48.823953"><ele>50.568607</ele><time>2018-06-26T07:22:37Z</time><extensions><speed>2.552607</speed><course>126.190392</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+      <trkpt lon="2.339257" lat="48.823937"><ele>50.507053</ele><time>2018-06-26T07:22:38Z</time><extensions><speed>2.552607</speed><course>123.884697</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+      <trkpt lon="2.339306" lat="48.823933"><ele>50.466091</ele><time>2018-06-26T07:22:39Z</time><extensions><speed>2.488915</speed><course>123.527931</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+      <trkpt lon="2.339333" lat="48.823915"><ele>50.337162</ele><time>2018-06-26T07:22:40Z</time><extensions><speed>2.398004</speed><course>135.277222</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

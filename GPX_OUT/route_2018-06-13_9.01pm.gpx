@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Apple Health Export" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <time>2024-06-18T22:20:49Z</time>
+  </metadata>
+  <trk>
+    <name>Route 2018-06-13 9:01pm</name>
+    <trkseg>
+      <trkpt lon="2.334367" lat="48.820180"><ele>75.904312</ele><time>2018-06-13T19:01:48Z</time><extensions><speed>2.214343</speed><course>297.372406</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+      <trkpt lon="2.334333" lat="48.820183"><ele>75.904312</ele><time>2018-06-13T19:01:49Z</time><extensions><speed>2.214343</speed><course>293.244354</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+      <trkpt lon="2.334302" lat="48.820189"><ele>75.904312</ele><time>2018-06-13T19:01:50Z</time><extensions><speed>1.945728</speed><course>294.259399</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+      <trkpt lon="2.334259" lat="48.820191"><ele>75.904312</ele><time>2018-06-13T19:01:51Z</time><extensions><speed>2.832234</speed><course>287.702454</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+      <trkpt lon="2.334231" lat="48.820171"><ele>75.904312</ele><time>2018-06-13T19:01:52Z</time><extensions><speed>2.832234</speed><course>254.849869</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+      <trkpt lon="2.334203" lat="48.820162"><ele>75.904312</ele><time>2018-06-13T19:01:53Z</time><extensions><speed>2.415738</speed><course>270.905914</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+      <trkpt lon="2.334157" lat="48.820161"><ele>75.904312</ele><time>2018-06-13T19:01:54Z</time><extensions><speed>1.835612</speed><course>263.564117</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+      <trkpt lon="2.334127" lat="48.820148"><ele>75.904312</ele><time>2018-06-13T19:01:55Z</time><extensions><speed>1.835612</speed><course>180.344513</course><hAcc>32.004833</hAcc><vAcc>3.000000</vAcc></extensions></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

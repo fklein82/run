@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Apple Health Export" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <time>2024-06-18T22:20:49Z</time>
+  </metadata>
+  <trk>
+    <name>Route 2018-06-13 9:02pm</name>
+    <trkseg>
+      <trkpt lon="2.333753" lat="48.819804"><ele>75.262184</ele><time>2018-06-13T19:02:13Z</time><extensions><speed>2.659116</speed><course>166.863632</course><hAcc>7.995447</hAcc><vAcc>4.690154</vAcc></extensions></trkpt>
+      <trkpt lon="2.333743" lat="48.819781"><ele>75.313263</ele><time>2018-06-13T19:02:14Z</time><extensions><speed>2.659261</speed><course>208.086288</course><hAcc>6.903605</hAcc><vAcc>4.052991</vAcc></extensions></trkpt>
+      <trkpt lon="2.333733" lat="48.819758"><ele>75.364464</ele><time>2018-06-13T19:02:15Z</time><extensions><speed>2.659618</speed><course>-1.000000</course><hAcc>5.951624</hAcc><vAcc>3.497946</vAcc></extensions></trkpt>
+      <trkpt lon="2.333724" lat="48.819735"><ele>75.415985</ele><time>2018-06-13T19:02:16Z</time><extensions><speed>2.660054</speed><course>197.024826</course><hAcc>5.212137</hAcc><vAcc>3.066041</vAcc></extensions></trkpt>
+      <trkpt lon="2.333714" lat="48.819712"><ele>75.467972</ele><time>2018-06-13T19:02:17Z</time><extensions><speed>2.660476</speed><course>188.902344</course><hAcc>4.780994</hAcc><vAcc>2.811401</vAcc></extensions></trkpt>
+      <trkpt lon="2.333704" lat="48.819689"><ele>75.520370</ele><time>2018-06-13T19:02:18Z</time><extensions><speed>2.660823</speed><course>194.329254</course><hAcc>4.740911</hAcc><vAcc>2.781330</vAcc></extensions></trkpt>
+      <trkpt lon="2.333694" lat="48.819665"><ele>75.573059</ele><time>2018-06-13T19:02:19Z</time><extensions><speed>2.661062</speed><course>202.623505</course><hAcc>5.100794</hAcc><vAcc>2.982386</vAcc></extensions></trkpt>
+      <trkpt lon="2.333684" lat="48.819642"><ele>75.625908</ele><time>2018-06-13T19:02:20Z</time><extensions><speed>2.661196</speed><course>197.179810</course><hAcc>5.787673</hAcc><vAcc>3.374521</vAcc></extensions></trkpt>
+      <trkpt lon="2.333675" lat="48.819619"><ele>75.678848</ele><time>2018-06-13T19:02:21Z</time><extensions><speed>2.661221</speed><course>183.583145</course><hAcc>6.703910</hAcc><vAcc>3.902390</vAcc></extensions></trkpt>
+      <trkpt lon="2.333665" lat="48.819596"><ele>75.731834</ele><time>2018-06-13T19:02:22Z</time><extensions><speed>2.661165</speed><course>192.115128</course><hAcc>7.771409</hAcc><vAcc>4.520938</vAcc></extensions></trkpt>
+      <trkpt lon="2.333655" lat="48.819573"><ele>75.784843</ele><time>2018-06-13T19:02:23Z</time><extensions><speed>2.661124</speed><course>218.608124</course><hAcc>8.938793</hAcc><vAcc>5.200187</vAcc></extensions></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

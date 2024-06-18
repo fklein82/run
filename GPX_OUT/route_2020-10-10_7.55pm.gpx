@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Apple Health Export" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <time>2024-06-18T22:21:09Z</time>
+  </metadata>
+  <trk>
+    <name>Route 2020-10-10 7:55pm</name>
+    <trkseg>
+      <trkpt lon="2.309916" lat="48.848553"><ele>37.453556</ele><time>2020-10-10T17:55:25Z</time><extensions><speed>1.324002</speed><course>125.070099</course><hAcc>4.072744</hAcc><vAcc>3.282587</vAcc></extensions></trkpt>
+      <trkpt lon="2.309924" lat="48.848550"><ele>37.428230</ele><time>2020-10-10T17:55:25Z</time><extensions><speed>1.324004</speed><course>125.070099</course><hAcc>3.848762</hAcc><vAcc>3.103779</vAcc></extensions></trkpt>
+      <trkpt lon="2.309931" lat="48.848546"><ele>37.404202</ele><time>2020-10-10T17:55:26Z</time><extensions><speed>1.324002</speed><course>119.802444</course><hAcc>3.646707</hAcc><vAcc>2.941971</vAcc></extensions></trkpt>
+      <trkpt lon="2.309946" lat="48.848540"><ele>37.355068</ele><time>2020-10-10T17:55:27Z</time><extensions><speed>1.323953</speed><course>127.345001</course><hAcc>3.268905</hAcc><vAcc>2.637944</vAcc></extensions></trkpt>
+      <trkpt lon="2.309961" lat="48.848533"><ele>37.306431</ele><time>2020-10-10T17:55:28Z</time><extensions><speed>1.323735</speed><course>123.916130</course><hAcc>2.949297</hAcc><vAcc>2.379203</vAcc></extensions></trkpt>
+      <trkpt lon="2.309976" lat="48.848527"><ele>37.258442</ele><time>2020-10-10T17:55:29Z</time><extensions><speed>1.323152</speed><course>127.175354</course><hAcc>2.700352</hAcc><vAcc>2.176800</vAcc></extensions></trkpt>
+      <trkpt lon="2.309991" lat="48.848520"><ele>37.211159</ele><time>2020-10-10T17:55:30Z</time><extensions><speed>1.322131</speed><course>126.175240</course><hAcc>2.536042</hAcc><vAcc>2.043227</vAcc></extensions></trkpt>
+      <trkpt lon="2.310006" lat="48.848514"><ele>37.164577</ele><time>2020-10-10T17:55:31Z</time><extensions><speed>1.320661</speed><course>123.577866</course><hAcc>2.468461</hAcc><vAcc>1.989367</vAcc></extensions></trkpt>
+      <trkpt lon="2.310021" lat="48.848507"><ele>37.118649</ele><time>2020-10-10T17:55:32Z</time><extensions><speed>1.318874</speed><course>121.811432</course><hAcc>2.503058</hAcc><vAcc>2.020125</vAcc></extensions></trkpt>
+      <trkpt lon="2.310037" lat="48.848501"><ele>37.073246</ele><time>2020-10-10T17:55:33Z</time><extensions><speed>1.316907</speed><course>130.040802</course><hAcc>2.635862</hAcc><vAcc>2.131894</vAcc></extensions></trkpt>
+      <trkpt lon="2.310051" lat="48.848494"><ele>37.028175</ele><time>2020-10-10T17:55:34Z</time><extensions><speed>1.314766</speed><course>125.533501</course><hAcc>2.855340</hAcc><vAcc>2.314320</vAcc></extensions></trkpt>
+      <trkpt lon="2.310066" lat="48.848488"><ele>36.983273</ele><time>2020-10-10T17:55:35Z</time><extensions><speed>1.312562</speed><course>120.381042</course><hAcc>3.147130</hAcc><vAcc>2.554640</vAcc></extensions></trkpt>
+      <trkpt lon="2.310081" lat="48.848481"><ele>36.938457</ele><time>2020-10-10T17:55:35Z</time><extensions><speed>1.310528</speed><course>111.230217</course><hAcc>3.497573</hAcc><vAcc>2.840866</vAcc></extensions></trkpt>
+      <trkpt lon="2.310096" lat="48.848475"><ele>36.893581</ele><time>2020-10-10T17:55:36Z</time><extensions><speed>1.308915</speed><course>96.475853</course><hAcc>3.896773</hAcc><vAcc>3.164343</vAcc></extensions></trkpt>
+      <trkpt lon="2.310111" lat="48.848469"><ele>36.848682</ele><time>2020-10-10T17:55:37Z</time><extensions><speed>1.307967</speed><course>96.475853</course><hAcc>4.336442</hAcc><vAcc>3.517956</vAcc></extensions></trkpt>
+      <trkpt lon="2.310126" lat="48.848462"><ele>36.803764</ele><time>2020-10-10T17:55:38Z</time><extensions><speed>1.307680</speed><course>96.475845</course><hAcc>4.810568</hAcc><vAcc>3.896646</vAcc></extensions></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
